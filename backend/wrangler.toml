@@ -2,5 +2,5 @@ name = "backend"
 compatibility_date = "2023-12-01"
 
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMjRkOTkzMWMtYjExMy00ZTg2LThlYmUtNjU1MWU5NzU1OWVlIiwidGVuYW50X2lkIjoiMDdjZjUwOGIzYzM4ODljNTBlZWE1NDZmNGVhMGNmNjYyZGFkMzc0MDAxNTRkOWZlMjJmYWJjNDAxYjg4ZmU1MSIsImludGVybmFsX3NlY3JldCI6IjU0ODU0ZWZjLTFkMDItNDBjOC04ZTJlLTAzZmM2ODliOTI3NCJ9.QO-nDR8T7KpabOnIHSx3Gn5UY2SEvsPp5eCLfEc2WTU"
-JWT_SECRET = "This_is_my_secret_for_jwt_token_generation"
+DATABASE_URL=" Enter your pooled enabled database URL before proceed"
+JWT_SECRET = "enter a secret code for your own project"
