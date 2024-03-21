@@ -15,5 +15,11 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240208.0",
     "wrangler": "^3.32.0"
-  }
+  },
+  "name": "backend",
+  "description": "``` npm install npm run dev ```",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
